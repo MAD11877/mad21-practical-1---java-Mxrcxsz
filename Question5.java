@@ -55,7 +55,7 @@ public class Question5
       }
       num--;
     }
-    // System.out.println(mode.get(0));
+    System.out.println(mode.get(0));
     
   }
 }

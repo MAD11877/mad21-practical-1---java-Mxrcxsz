@@ -23,9 +23,9 @@ public class Question4
 
     while (num > 0){
       for(int i = 0; i < num; i++){
-        // System.out.print("*");
+        System.out.print("*");
       }
-      // System.out.println("");
+      System.out.println("");
       num--;
     }
   }
